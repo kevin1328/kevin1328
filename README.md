@@ -5,19 +5,16 @@
 
 ### Hola amigos 👋
 
-<!--
-**kevin1328/kevin1328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-👨‍🎓 Soy estudiante de la Preparatoria Federal Lázaro Cárdenas
 
-Here are some ideas to get you started:
+-💻 Estoy cursando TICS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-🤔 Mis pasatiempos son comer y ver series o películas
+
+-🏀 Me gusta jugar al basquetball
+
+-🌿 Me agrada la naturaleza o lugares tranquilos
+
 -->
 | Hora                | Lunes                            | Martes                           | Miércoles                                       | Jueves                                 | Viernes               |
 |---------------------|----------------------------------|----------------------------------|-------------------------------------------------|----------------------------------------|-----------------------|
@@ -29,3 +26,7 @@ Here are some ideas to get you started:
 |  11:05=11:55        | Física II                        | Matemáticas IV                   | Inglés IV                                       | Inglés IV                              | Historia de México II |
 |  12:00-12:50        | Matemáticas IV                   | Inglés IV                        | Comunidades virtuales                           | Física II                              |                       |
 | 12:55-13:45         |                                  | Comunidades de virtuales         | Comunidades virtuales                           | Matemáticas IV                         |                       |
+
+
+![image](https://user-images.githubusercontent.com/99694866/154775091-acb47f96-1043-4a32-9a4d-f01a2dedbe49.png)
+
